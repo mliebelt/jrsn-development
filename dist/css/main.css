@@ -11,9 +11,9 @@
    ========================================================================== */
 
 html {
-    color: #881112;
     font-size: 1em;
     line-height: 1.4;
+    background-color: azure;
 }
 
 /*
@@ -99,7 +99,14 @@ textarea {
 
 
 
-
+header {
+  font-size: xx-large;
+  text-align: center;
+  color: red;
+  font-family: "Comic Sans MS";
+  -webkit-box-shadow: 2px 1px 5px grey;
+  box-shadow: 2px 1px 5px grey;
+}
 
 
 
