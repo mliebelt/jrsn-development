@@ -13,3 +13,7 @@ p {
 ul {
     text-align: left;
 }
+
+ul ul {
+    margin-left: 1em;
+}

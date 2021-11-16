@@ -47,6 +47,11 @@ Das hat sich übrigens über die letzten 40 Jahre massiv geändert, und ändert 
 
 ### Ausbildung
 
+* [Fachinformatiker](https://www.ausbildung.de/berufe/fachinformatiker/)
+* Studium (Beispiele)
+  * [HDM](https://www.hdm-stuttgart.de/studieninteressierte/studium/bachelor) _irgendwas mit Medien_ (und oft mit Computer)
+  * [HFT](https://www.hft-stuttgart.de/informatik) Kerninformatik Bachelor
+  * [Uni Stuttgart](https://www.uni-stuttgart.de/studium/bachelor/informatik-b.sc./) dort habe ich studiert
 ---
 
 ### Richtungen
@@ -56,6 +61,14 @@ Das hat sich übrigens über die letzten 40 Jahre massiv geändert, und ändert 
   * Software (die meisten)
   * Betrieb, Netzwerke und Infrastruktur
 * Bei-Informatiker: Es gibt inzwischen mehr (akademische) Berufe, bei denen Informatik eine Rolle spielt, als welche, bei denen man Informatik nicht braucht.
+
+---
+
+### Was muss man können / wollen?
+
+* English! Ist auch in der Informatik die Weltsprache, alle wesentliche Literatur, das ganze (relevante) Internet ist ENGLISH.
+* Mathe! Früher oder später ist es relevant. Logik, Knobelaufgaben, Algorithmisches Denken, ...
+* Alles mit Computer: programmieren, schreiben, designen, ...
 
 ---
 
