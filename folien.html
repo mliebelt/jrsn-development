@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <link rel="stylesheet" href="lib/reveal.js-master/dist/reset.css">
+		    <link rel="stylesheet" href="lib/reveal.js-master/dist/reveal.css">
+        <link rel="stylesheet" href="folien.css">
+    </header>
+
+    <body>
+      <div class="reveal">
+        <div class="slides">
+          <section data-markdown="folien.md">
+     <!--
+         Note that Windows uses `\r\n` instead of `\n` as its linefeed character.
+         For a regex that supports all operating systems, use `\r?\n` instead of `\n`.
+     -->
+ </section>
+        </div>
+        <script src="lib/reveal.js-master/dist/reveal.js"></script>
+        <script src="lib/reveal.js-master/plugin/markdown/markdown.js"></script>
+        <script>
+            Reveal.initialize({
+              plugins: [ RevealMarkdown ]
+            });
+          </script>
+        </div>
+    </body>
+
+</html>

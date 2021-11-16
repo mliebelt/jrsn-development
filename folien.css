@@ -1,0 +1,15 @@
+h1, h2, h3 {
+    font-size: 96px;
+}
+
+body {
+    font-size: 48px;
+}
+
+p {
+    margin: 30px 10px;
+}
+
+ul {
+    text-align: left;
+}

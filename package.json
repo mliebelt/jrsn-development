@@ -1,0 +1,22 @@
+{
+  "name": "jrsn-development",
+  "version": "1.0.0",
+  "description": "Kleines Entwicklungsbeispiel für die Berufsbörse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mliebelt/jrsn-development.git"
+  },
+  "author": "mliebelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mliebelt/jrsn-development/issues"
+  },
+  "homepage": "https://github.com/mliebelt/jrsn-development#readme",
+  "dependencies": {
+    "reveal.js": "^4.2.0"
+  }
+}
