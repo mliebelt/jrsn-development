@@ -4,7 +4,7 @@ Bei der Veranstaltung am 23.11.2018 hat der Autor den Schülern gezeigt, was ein
 
 ---
 
-## Vorbereitung für den 19.11.2021
+## Vorbereitung für den 19.11.2021 (neuer Termin: 25.3.2022)
 
 Ich möchte komplett neu starten, da das verwendete Template sehr komplex war, und vor allem keinen Mehrwert hatte. Was ich statt dessen machen möchte:
 
