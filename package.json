@@ -4,7 +4,8 @@
   "description": "Kleines Entwicklungsbeispiel für die Berufsbörse.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/mliebelt/jrsn-development#readme",
   "dependencies": {
-    "reveal.js": "^4.3.0"
+    "reveal.js": "^4.3.0",
+    "@mliebelt/pgn-viewer": "1.6.0"
   }
 }
