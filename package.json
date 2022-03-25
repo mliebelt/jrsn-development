@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mliebelt/jrsn-development#readme",
   "dependencies": {
-    "reveal.js": "^4.2.0"
+    "reveal.js": "^4.3.0"
   }
 }
